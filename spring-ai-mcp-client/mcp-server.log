@@ -1,0 +1,145 @@
+2025-04-30 15:59:41 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 6816 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 15:59:41 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 15:59:41 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 15:59:41 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.683 seconds (process running for 0.871)
+2025-04-30 15:59:41 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:01:33 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 6859 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:01:33 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:01:33 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:01:34 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.673 seconds (process running for 0.872)
+2025-04-30 16:01:34 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:02:17 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 6907 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:02:17 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:02:17 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:02:18 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.682 seconds (process running for 0.887)
+2025-04-30 16:02:18 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:02:24 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 6920 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:02:24 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:02:25 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:02:25 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.661 seconds (process running for 0.86)
+2025-04-30 16:02:25 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:02:51 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 6935 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:02:51 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:02:51 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:02:51 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.676 seconds (process running for 0.866)
+2025-04-30 16:02:51 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:09:04 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7036 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:09:04 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:09:05 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:09:05 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.664 seconds (process running for 0.858)
+2025-04-30 16:09:05 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:10:40 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7072 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:10:40 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:10:40 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:10:40 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.658 seconds (process running for 0.848)
+2025-04-30 16:10:40 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:12:50 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7220 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:12:50 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:12:51 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:12:51 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.651 seconds (process running for 0.846)
+2025-04-30 16:12:51 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:13:18 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7249 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:13:18 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:13:18 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:13:18 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.654 seconds (process running for 0.849)
+2025-04-30 16:13:18 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:16:14 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7330 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:16:14 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:16:14 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:16:14 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.656 seconds (process running for 0.852)
+2025-04-30 16:16:14 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:16:49 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7364 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:16:49 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:16:49 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:16:49 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.652 seconds (process running for 0.845)
+2025-04-30 16:16:49 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:17:29 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7380 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:17:29 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:17:29 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:17:29 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.681 seconds (process running for 0.88)
+2025-04-30 16:17:29 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:20:35 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7493 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:20:35 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:20:36 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:20:36 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.669 seconds (process running for 0.866)
+2025-04-30 16:20:36 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:21:02 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7508 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:21:02 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:21:03 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:21:03 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.658 seconds (process running for 0.857)
+2025-04-30 16:21:03 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:21:54 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7559 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:21:54 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:21:54 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:21:55 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.673 seconds (process running for 0.872)
+2025-04-30 16:21:55 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:25:16 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7637 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:25:16 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:25:16 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:25:16 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.678 seconds (process running for 0.878)
+2025-04-30 16:25:16 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:27:42 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7679 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:27:42 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:27:43 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:27:43 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.685 seconds (process running for 0.881)
+2025-04-30 16:27:43 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:28:04 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7695 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:28:04 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:28:04 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:28:04 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.655 seconds (process running for 0.847)
+2025-04-30 16:28:04 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:28:12 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7709 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:28:12 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:28:12 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:28:12 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.683 seconds (process running for 0.874)
+2025-04-30 16:28:12 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:37:27 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 7962 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:37:27 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:37:27 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:37:27 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.636 seconds (process running for 0.831)
+2025-04-30 16:37:27 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:43:24 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 8085 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:43:24 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:43:25 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:43:25 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.7 seconds (process running for 0.905)
+2025-04-30 16:43:25 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:44:29 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 8116 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:44:29 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:44:29 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:44:29 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.665 seconds (process running for 0.844)
+2025-04-30 16:44:29 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:46:01 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 8182 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:46:01 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:46:01 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 16:46:01 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.661 seconds (process running for 0.845)
+2025-04-30 16:46:01 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:46:09 [boundedElastic-1] INFO  com.yuncheng.mcp.MathService - ===============add方法被调用: a=1, b=2
+2025-04-30 16:47:37 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 8281 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:47:37 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:47:38 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools3 notification: true
+2025-04-30 16:47:38 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.614 seconds (process running for 0.794)
+2025-04-30 16:47:38 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:47:46 [boundedElastic-1] INFO  com.yuncheng.mcp.MathService - ===============getWeatherByCity方法被调用：city=北京
+2025-04-30 16:48:05 [boundedElastic-1] INFO  com.yuncheng.mcp.MathService - ===============getWeatherByCity方法被调用：city=上海
+2025-04-30 16:48:39 [boundedElastic-1] INFO  com.yuncheng.mcp.MathService - ===============getWeatherByCity方法被调用：city=杭州
+2025-04-30 16:49:09 [boundedElastic-1] INFO  com.yuncheng.mcp.MathService - ===============getWeatherByCity方法被调用：city=西安
+2025-04-30 16:55:25 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 8410 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:55:25 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:55:25 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools3 notification: true
+2025-04-30 16:55:25 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.673 seconds (process running for 0.864)
+2025-04-30 16:55:25 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 16:56:02 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 8438 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 16:56:02 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 16:56:03 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools3 notification: true
+2025-04-30 16:56:03 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.676 seconds (process running for 0.88)
+2025-04-30 16:56:03 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 17:01:44 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 8563 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 17:01:44 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 17:01:45 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools3 notification: true
+2025-04-30 17:01:45 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.659 seconds (process running for 0.853)
+2025-04-30 17:01:45 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
+2025-04-30 17:03:11 [main] INFO  c.yuncheng.mcp.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 17.0.15 with PID 8639 (/Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-stdio-server/target/spring-ai-mcp-stdio-server.jar started by baoxiaomin in /Users/baoxiaomin/IdeaProjects/mcp_project/spring-ai-mcp-demo/spring-ai-mcp-client)
+2025-04-30 17:03:11 [main] INFO  c.yuncheng.mcp.McpServerApplication - The following 1 profile is active: "dev"
+2025-04-30 17:03:12 [main] INFO  o.s.a.a.m.s.MpcServerAutoConfiguration - Registered tools2 notification: true
+2025-04-30 17:03:12 [main] INFO  c.yuncheng.mcp.McpServerApplication - Started McpServerApplication in 0.684 seconds (process running for 0.896)
+2025-04-30 17:03:12 [main] INFO  c.yuncheng.mcp.McpServerApplication - ===============McpServerApplication服务启动成功
