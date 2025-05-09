@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Retro AI Chat (HTTP)</title>
+  <title>Retro AI Chat (HTTP-GET)</title>
   <style>
-    /* …same styles… */
+    /* …the same retro-modern styles as before… */
     body { margin:0; padding:0; font-family:'Courier New', monospace; background:#1b1b1b; color:#e0e0e0; display:flex; flex-direction:column; align-items:center; height:100vh;}
     body::before { content:''; position:fixed; top:0;left:0;width:100%;height:100%; background:repeating-linear-gradient(0deg,rgba(0,0,0,0),rgba(0,0,0,0) 1px,rgba(0,0,0,0.05) 2px);pointer-events:none;}
     header { width:90%;max-width:1600px;padding:.5rem 1rem;background:#111;border-bottom:2px solid #444;text-align:center;font-size:1.4rem;text-shadow:0 0 4px #0f0;margin-top:.5rem;}
@@ -26,7 +26,7 @@
 </head>
 <body>
 
-<header>🕹️ Retro AI Chat (HTTP)</header>
+<header>🕹️ Retro AI Chat (HTTP-GET)</header>
 <div id="chat-window"></div>
 <form id="input-form" autocomplete="off">
   <textarea id="user-input" placeholder="Type your message…" required></textarea>
@@ -38,8 +38,11 @@
   const form = document.getElementById('input-form');
   const input = document.getElementById('user-input');
 
-  function fmtTime(d){ return d.toLocaleTimeString([], {hour12:false}); }
-  function appendMsg(who, text, label){
+  function fmtTime(d){
+    return d.toLocaleTimeString([], {hour12:false});
+  }
+
+  function appendMsg(who, text, label) {
     const msg = document.createElement('div');
     msg.className = 'message ' + who;
     msg.innerHTML = `
@@ -53,7 +56,7 @@
     return msg;
   }
 
-  // Enter to send, Shift+Enter for newline
+  // Enter to send (Shift+Enter for newline)
   input.addEventListener('keydown', e => {
     if (e.key === 'Enter' && !e.shiftKey) {
       e.preventDefault();
@@ -61,25 +64,27 @@
     }
   });
 
-  form.addEventListener('submit', async e=>{
+  form.addEventListener('submit', async e => {
     e.preventDefault();
     const txt = input.value.trim();
-    if(!txt) return;
-    const sent = `Sent: ${fmtTime(new Date())}`;
-    appendMsg('user', txt, sent);
+    if (!txt) return;
+
+    // User message
+    const sentLabel = `Sent: ${fmtTime(new Date())}`;
+    appendMsg('user', txt, sentLabel);
     input.value = '';
 
     try {
-      const resp = await fetch('/api/chat', {
-        method: 'POST',
-        headers: {'Content-Type':'application/json'},
-        body: JSON.stringify({ prompt: txt })
-      });
-      const body = await resp.json();
-      const recv = `Received: ${fmtTime(new Date())}`;
-      appendMsg('ai', body.reply, recv);
-    } catch {
-      appendMsg('ai', '[Error fetching response]', `Received: ${fmtTime(new Date())}`);
+      // GET to your controller
+      const url = `/api/chat?prompt=${encodeURIComponent(txt)}`;
+      const resp = await fetch(url, { method: 'GET' });
+      const reply = await resp.text();   // <--- TEXT not JSON
+      const recvLabel = `Received: ${fmtTime(new Date())}`;
+      appendMsg('ai', reply, recvLabel);
+
+    } catch (err) {
+      const errLabel = `Received: ${fmtTime(new Date())} (error)`;
+      appendMsg('ai', '[Error fetching response]', errLabel);
     }
   });
 </script>
