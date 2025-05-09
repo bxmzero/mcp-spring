@@ -21,7 +21,7 @@ public class McpClientApplication {
     }
 
 
-    @Bean
+    //@Bean
     public CommandLineRunner predefinedQuestions(ChatClient.Builder chatClientBuilder,
                                                  ToolCallbackProvider tools,
                                                  ConfigurableApplicationContext context) {
